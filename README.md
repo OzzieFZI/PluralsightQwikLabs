@@ -23,7 +23,7 @@ This section introduces you to important concepts and terminology for working wi
 
 ## Labs
 
-* &#x2611 GCP_Course01_Lab01 [GCP Fundamentals: Getting Started with Cloud Marketplace](https://googlepluralsight.qwiklabs.com/focuses/23608)
+* :*:\check::✅ GCP_Course01_Lab01 [GCP Fundamentals: Getting Started with Cloud Marketplace](https://googlepluralsight.qwiklabs.com/focuses/23608)
 * GCP_Course01_Lab02 [GCP Fundamentals: Getting Started with Compute Engine](https://googlepluralsight.qwiklabs.com/focuses/23631)
 * GCP_Course01_Lab03 [GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/23632)
 * GCP_Course01_Lab04 [GCP Fundamentals: Getting Started with Kubernetes Engine](https://googlepluralsight.qwiklabs.com/focuses/23633)
