@@ -55,10 +55,10 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * ✅ GCP_Course03_Lab01 [Cloud IAM v1.5](https://googlepluralsight.qwiklabs.com/focuses/23621)
 * ✅ GCP_Course03_Lab02 [Cloud Storage v1.5](https://googlepluralsight.qwiklabs.com/focuses/23630)
 * ✅ GCP_Course03_Lab03 [Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)
-* GCP_Course03_Lab04 [Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)
-* GCP_Course03_Lab05 [Examining Billing data with BigQuery v1.5](https://googlepluralsight.qwiklabs.com/focuses/23640)
-* GCP_Course03_Lab06 [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23641)
-* GCP_Course03_Lab07 [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
+* ✅ GCP_Course03_Lab04 [Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)
+* ✅ GCP_Course03_Lab05 [Examining Billing data with BigQuery v1.5](https://googlepluralsight.qwiklabs.com/focuses/23640)
+* ✅ GCP_Course03_Lab06 [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23641)
+* ✅ GCP_Course03_Lab07 [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
 
 # Advanced
 
@@ -68,9 +68,9 @@ This section covers deploying practical solutions including securely interconnec
 
 ## Labs
 
-* GCP_Course04_Lab01 [Virtual Private Networks (VPN) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23644)
-* GCP_Course04_Lab02 [Virtual Machine Automation and Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23646)
-* GCP_Course04_Lab03 [Autoscaling v1.5](https://googlepluralsight.qwiklabs.com/focuses/23647)
+* ✅ GCP_Course04_Lab01 [Virtual Private Networks (VPN) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23644)
+* ✅ GCP_Course04_Lab02 [Virtual Machine Automation and Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23646)
+* ✅ GCP_Course04_Lab03 [Autoscaling v1.5](https://googlepluralsight.qwiklabs.com/focuses/23647)
 * GCP_Course04_Lab04 [Google Cloud Platform API Infrastructure Automation v1.5](https://googlepluralsight.qwiklabs.com/focuses/23643)
 * GCP_Course04_Lab05 [Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)
 
