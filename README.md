@@ -71,8 +71,8 @@ This section covers deploying practical solutions including securely interconnec
 * ✅ GCP_Course04_Lab01 [Virtual Private Networks (VPN) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23644)
 * ✅ GCP_Course04_Lab02 [Virtual Machine Automation and Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23646)
 * ✅ GCP_Course04_Lab03 [Autoscaling v1.5](https://googlepluralsight.qwiklabs.com/focuses/23647)
-* GCP_Course04_Lab04 [Google Cloud Platform API Infrastructure Automation v1.5](https://googlepluralsight.qwiklabs.com/focuses/23643)
-* GCP_Course04_Lab05 [Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)
+* ✅ GCP_Course04_Lab04 [Google Cloud Platform API Infrastructure Automation v1.5](https://googlepluralsight.qwiklabs.com/focuses/23643)
+* ✅ GCP_Course04_Lab05 [Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)
 
 [Elastic Cloud Infrastructure: Containers and Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-containers-services/table-of-contents)
 
@@ -80,7 +80,7 @@ This section covers deploying practical solutions including securely interconnec
 
 ## Lab
 
-* GCP_Course05_Lab01 [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
+* ✅ GCP_Course05_Lab01 [Kubernetes Load Balancing v1.5](https://googlepluralsight.qwiklabs.com/focuses/23638)
 
 # Others
 
