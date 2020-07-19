@@ -98,7 +98,7 @@ You'll learn to containerize workloads in Docker containers, deploy them to Kube
 ## Labs
 
 * [Introduction to Containers and Docker v1.6](https://googlepluralsight.qwiklabs.com/focuses/9772088?parent=lti_session)
-* [Kubernetes Basics v1.6](https://googlepluralsight.qwiklabs.com/focuses/36035)
+* [Kubernetes Basics v1.6](https://googlepluralsight.qwiklabs.com/focuses/9772281?parent=lti_session)
 * [Deploying to Kubernetes v1.6](https://googlepluralsight.qwiklabs.com/focuses/36038)
 * [Continuous Deployment with Jenkins v1.6](https://googlepluralsight.qwiklabs.com/focuses/36041)
 * [Continuous Deployment with Spinnaker v1.6](https://googlepluralsight.qwiklabs.com/focuses/36045)
