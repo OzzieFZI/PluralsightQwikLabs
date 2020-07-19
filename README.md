@@ -39,8 +39,8 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ## Labs
 
-* ✅ GCP_Course02_Lab01 [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374?parent=lti_session)
-* ✅ GCP_Course02_Lab02 [Infrastructure Preview v1.5](https://googlepluralsight.qwiklabs.com/focuses/23619)
+* ✅ GCP_Course02_Lab01 [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374)
+* ✅ GCP_Course02_Lab02 [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574)
 * ✅ GCP_Course02_Lab03 [Virtual Networking v1.5](https://googlepluralsight.qwiklabs.com/focuses/23620)
 * ✅ GCP_Course02_Lab04 [Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)
 * ✅ GCP_Course02_Lab05 [Creating Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23628)
