@@ -39,13 +39,13 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ## Labs
 
-* ✅ [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374)
-* ✅ [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574)
-* ✅ [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190)
+* ✅ [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374?parent=lti_session)
+* ✅ [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574?parent=lti_session)
+* ✅ [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190?parent=lti_session)
 * ✅ ~~[Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
-* [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461)
-* ✅ [Creating Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765118)
-* ✅ [Working with Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765895)
+* [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461?parent=lti_session)
+* ✅ [Creating Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765118?parent=lti_session)
+* ✅ [Working with Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765895?parent=lti_session)
 
 
 [Essential Cloud Infrastructure: Core Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-core-services/table-of-contents)
@@ -54,13 +54,13 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ## Labs
 
-* ✅ [Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/9767204)
-* ✅ [Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/9767585)
+* ✅ [Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/9767204?parent=lti_session)
+* ✅ [Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/9767585?parent=lti_session)
 * ✅ ~~[Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)~~
-* [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9767932)
-* ✅ [Examining Billing data with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9768412)
+* [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9767932?parent=lti_session)
+* ✅ [Examining Billing data with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9768412?parent=lti_session)
 * ✅ ~~[Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)~~
-* ✅ [Resource Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9768658)
+* ✅ [Resource Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9768658?parent=lti_session)
 * ✅ [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
 
 # Advanced
