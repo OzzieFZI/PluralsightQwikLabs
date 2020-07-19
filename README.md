@@ -42,9 +42,11 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * ✅ GCP_Course02_Lab01 [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374)
 * ✅ GCP_Course02_Lab02 [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574)
 * ✅ GCP_Course02_Lab03 [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190)
-* ✅ GCP_Course02_Lab04 [Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)
+* ✅ ~~GCP_Course02_Lab04 [Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
+* GCP_Course02_Lab04 [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461)
 * ✅ GCP_Course02_Lab05 [Creating Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23628)
 * ✅ GCP_Course02_Lab06 [Working with Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23629)
+
 
 [Essential Cloud Infrastructure: Core Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-core-services/table-of-contents)
 
