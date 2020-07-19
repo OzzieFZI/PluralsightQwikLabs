@@ -76,8 +76,10 @@ This section covers deploying practical solutions including securely interconnec
 * [Configuring an HTTP Load Balancer with Autoscaling](https://googlepluralsight.qwiklabs.com/focuses/9769966?parent=lti_session)
 * ✅ ~~[Autoscaling v1.5](https://googlepluralsight.qwiklabs.com/focuses/23647)~~
 * [Configuring an Internal Load Balancer](https://googlepluralsight.qwiklabs.com/focuses/9770462?parent=lti_session)
-* ✅ GCP_Course04_Lab04 [Google Cloud Platform API Infrastructure Automation v1.5](https://googlepluralsight.qwiklabs.com/focuses/23643)
-* ✅ GCP_Course04_Lab05 [Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)
+* ✅ ~~[Google Cloud Platform API Infrastructure Automation v1.5](https://googlepluralsight.qwiklabs.com/focuses/23643)~~
+* [Automating the Deployment of Infrastructure Using Deployment Manager](https://googlepluralsight.qwiklabs.com/focuses/9770784?parent=lti_session)
+* ✅ ~~[Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)~~
+* [Automating the Deployment of Infrastructure Using Terraform]()
 
 [Elastic Cloud Infrastructure: Containers and Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-containers-services/table-of-contents)
 
