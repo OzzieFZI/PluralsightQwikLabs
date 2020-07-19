@@ -54,7 +54,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ## Labs
 
-* ✅ GCP_Course03_Lab01 [Cloud IAM v1.5](https://googlepluralsight.qwiklabs.com/focuses/23621)
+* ✅ GCP_Course03_Lab01 [Cloud IAM v1.5](https://googlepluralsight.qwiklabs.com/focuses/9767204)
 * ✅ GCP_Course03_Lab02 [Cloud Storage v1.5](https://googlepluralsight.qwiklabs.com/focuses/23630)
 * ✅ GCP_Course03_Lab03 [Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)
 * ✅ GCP_Course03_Lab04 [Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)
