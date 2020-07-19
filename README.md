@@ -44,7 +44,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * ✅ GCP_Course02_Lab03 [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190)
 * ✅ ~~GCP_Course02_Lab04 [Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
 * GCP_Course02_Lab04 [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461)
-* ✅ GCP_Course02_Lab05 [Creating Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23628)
+* ✅ GCP_Course02_Lab05 [Creating Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/9765118)
 * ✅ GCP_Course02_Lab06 [Working with Virtual Machines v1.5](https://googlepluralsight.qwiklabs.com/focuses/23629)
 
 
