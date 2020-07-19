@@ -79,7 +79,7 @@ This section covers deploying practical solutions including securely interconnec
 * ✅ ~~[Google Cloud Platform API Infrastructure Automation v1.5](https://googlepluralsight.qwiklabs.com/focuses/23643)~~
 * [Automating the Deployment of Infrastructure Using Deployment Manager](https://googlepluralsight.qwiklabs.com/focuses/9770784?parent=lti_session)
 * ✅ ~~[Deployment Manager v1.5](https://googlepluralsight.qwiklabs.com/focuses/23645)~~
-* [Automating the Deployment of Infrastructure Using Terraform]()
+* [Automating the Deployment of Infrastructure Using Terraform](https://googlepluralsight.qwiklabs.com/focuses/9771018?parent=lti_session)
 
 [Elastic Cloud Infrastructure: Containers and Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-containers-services/table-of-contents)
 
