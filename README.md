@@ -39,13 +39,13 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ## Labs
 
-* ✅ GCP_Course02_Lab01 [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374)
-* ✅ GCP_Course02_Lab02 [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574)
-* ✅ GCP_Course02_Lab03 [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190)
-* ✅ ~~GCP_Course02_Lab04 [Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
-* GCP_Course02_Lab04 [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461)
-* ✅ GCP_Course02_Lab05 [Creating Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765118)
-* ✅ GCP_Course02_Lab06 [Working with Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765895)
+* ✅ [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374)
+* ✅ [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574)
+* ✅ [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190)
+* ✅ ~~[Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
+* [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461)
+* ✅ [Creating Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765118)
+* ✅ [Working with Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765895)
 
 
 [Essential Cloud Infrastructure: Core Services](https://app.pluralsight.com/library/courses/gcp-infrastructure-core-services/table-of-contents)
@@ -54,14 +54,14 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 ## Labs
 
-* ✅ GCP_Course03_Lab01 [Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/9767204)
-* ✅ GCP_Course03_Lab02 [Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/9767585)
-* ✅ ~~GCP_Course03_Lab03 [Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)~~
-* GCP_Course03_Lab03 [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9767932)
-* ✅ GCP_Course03_Lab04 [Examining Billing data with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9768412)
-* ✅ ~~GCP_Course03_Lab05 [Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)~~
-* ✅ GCP_Course03_Lab05 [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23641)
-* ✅ GCP_Course03_Lab06 [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
+* ✅ [Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/9767204)
+* ✅ [Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/9767585)
+* ✅ ~~[Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)~~
+* [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9767932)
+* ✅ [Examining Billing data with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9768412)
+* ✅ ~~[Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)~~
+* ✅ [Resource Monitoring (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23641)
+* ✅ [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
 
 # Advanced
 
