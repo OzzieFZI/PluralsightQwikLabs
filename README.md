@@ -61,7 +61,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * ✅ [Examining Billing data with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9768412?parent=lti_session)
 * ✅ ~~[Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)~~
 * ✅ [Resource Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9768658?parent=lti_session)
-* ✅ [Error Reporting and Debugging (Stackdriver) v1.5](https://googlepluralsight.qwiklabs.com/focuses/23642)
+* ✅ [Error Reporting and Debugging](https://googlepluralsight.qwiklabs.com/focuses/9768852?parent=lti_session)
 
 # Advanced
 
