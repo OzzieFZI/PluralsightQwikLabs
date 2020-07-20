@@ -30,7 +30,7 @@ This section introduces you to important concepts and terminology for working wi
 * ✅ [Google Cloud Fundamentals: Getting Started with App Engine](https://googlepluralsight.qwiklabs.com/focuses/9789604?parent=lti_session)
 * ✅ ~~[GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/23635)~~
 * [Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9789816?parent=lti_session)
-* ✅ [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/23636)
+* ✅ [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9790092?parent=lti_session)
 
 # Intermediate
 
