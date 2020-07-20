@@ -23,13 +23,14 @@ This section introduces you to important concepts and terminology for working wi
 
 ## Labs
 
-* ✅ [GCP Fundamentals: Getting Started with Cloud Marketplace](https://googlepluralsight.qwiklabs.com/focuses/9788310?parent=lti_session)
-* ✅ [GCP Fundamentals: Getting Started with Compute Engine](https://googlepluralsight.qwiklabs.com/focuses/9788561?parent=lti_session)
-* ✅ [GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9788961?parent=lti_session)
+* ✅ [Google Cloud Fundamentals: Getting Started with Cloud Marketplace](https://googlepluralsight.qwiklabs.com/focuses/9788310?parent=lti_session)
+* ✅ [Google Cloud Fundamentals: Getting Started with Compute Engine](https://googlepluralsight.qwiklabs.com/focuses/9788561?parent=lti_session)
+* ✅ [Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9788961?parent=lti_session)
 * ✅ [Google Cloud Fundamentals: Getting Started with GKE](https://googlepluralsight.qwiklabs.com/focuses/9789365?parent=lti_session)
 * ✅ [Google Cloud Fundamentals: Getting Started with App Engine](https://googlepluralsight.qwiklabs.com/focuses/9789604?parent=lti_session)
-* ✅ GCP_Course01_Lab06 [GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/23635)
-* ✅ GCP_Course01_Lab07 [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/23636)
+* ✅ ~~[GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/23635)~~
+* [Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9789816?parent=lti_session)
+* ✅ [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/23636)
 
 # Intermediate
 
