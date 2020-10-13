@@ -42,7 +42,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 
 * ✅ [Console and Cloud Shell](https://googlepluralsight.qwiklabs.com/focuses/9763374?parent=lti_session)
 * ✅ [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574?parent=lti_session)
-* ✅ [Virtual Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190?parent=lti_session)
+* ✅ [VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190?parent=lti_session)
 * ✅ ~~[Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
 * [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461?parent=lti_session)
 * ✅ [Creating Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765118?parent=lti_session)
