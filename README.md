@@ -29,7 +29,7 @@ This section introduces you to important concepts and terminology for working wi
 * ✅ [Google Cloud Fundamentals: Getting Started with GKE](https://googlepluralsight.qwiklabs.com/focuses/9789365?parent=lti_session)
 * ✅ [Google Cloud Fundamentals: Getting Started with App Engine](https://googlepluralsight.qwiklabs.com/focuses/9789604?parent=lti_session)
 * ✅ ~~[GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver](https://googlepluralsight.qwiklabs.com/focuses/23635)~~
-* [Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9789816?parent=lti_session)
+* ✅ [Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9789816?parent=lti_session)
 * ✅ [GCP Fundamentals: Getting Started with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9790092?parent=lti_session)
 
 # Intermediate
@@ -44,7 +44,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * ✅ [Infrastructure Preview](https://googlepluralsight.qwiklabs.com/focuses/9763574?parent=lti_session)
 * ✅ [VPC Networking](https://googlepluralsight.qwiklabs.com/focuses/9764190?parent=lti_session)
 * ✅ ~~[Bastion Host v1.5](https://googlepluralsight.qwiklabs.com/focuses/23655)~~
-* [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/9764461?parent=lti_session)
+* ✅ [Implement Private Google Access and Cloud NAT](https://googlepluralsight.qwiklabs.com/focuses/11775454?parent=lti_session)
 * ✅ [Creating Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765118?parent=lti_session)
 * ✅ [Working with Virtual Machines](https://googlepluralsight.qwiklabs.com/focuses/9765895?parent=lti_session)
 
