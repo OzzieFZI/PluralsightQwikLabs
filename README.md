@@ -58,7 +58,7 @@ In this section You will learn how to use the Google Cloud Platform through the 
 * ✅ [Cloud IAM](https://googlepluralsight.qwiklabs.com/focuses/9767204?parent=lti_session)
 * ✅ [Cloud Storage](https://googlepluralsight.qwiklabs.com/focuses/9767585?parent=lti_session)
 * ✅ ~~[Cloud SQL v1.5](https://googlepluralsight.qwiklabs.com/focuses/23637)~~
-* [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/9767932?parent=lti_session)
+* ✅ [Implementing Cloud SQL](https://googlepluralsight.qwiklabs.com/focuses/11782807?parent=lti_session)
 * ✅ [Examining Billing data with BigQuery](https://googlepluralsight.qwiklabs.com/focuses/9768412?parent=lti_session)
 * ✅ ~~[Cloud Datastore v1.5](https://googlepluralsight.qwiklabs.com/focuses/23639)~~
 * ✅ [Resource Monitoring](https://googlepluralsight.qwiklabs.com/focuses/9768658?parent=lti_session)
